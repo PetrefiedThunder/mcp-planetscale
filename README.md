@@ -58,4 +58,4 @@ npx mcp-planetscale
 
 ## License
 
-MIT
+Apache-2.0
